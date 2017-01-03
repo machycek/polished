@@ -36,6 +36,7 @@ import padding from './shorthands/padding'
 import position from './shorthands/position'
 import size from './shorthands/size'
 import textInputs from './shorthands/textInputs'
+import transitions from './shorthands/transitions'
 
 export {
   animation,
@@ -67,5 +68,6 @@ export {
   stripUnit,
   textInputs,
   timingFunctions,
+  transitions,
   wordWrap,
 }
